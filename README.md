@@ -12,14 +12,14 @@ version: lineage 17.1 (android 10)
 - Bluetooth  
 - GPS  
 - Camera (Photo/Video/Flashlight)  
-- Audio  
+- Audio
+- Fingerprint sensor  
 - DT2W  
 - Keydisabler  
 - Notification LED  
 - Torchlight  
 
 ## Broken
-- Fingerprint sensor  
 - NFC  
 - Permissive selinux  
 - YOU TELL ME 
