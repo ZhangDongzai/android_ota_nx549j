@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1775442713,
-      "filename": "lineage-17.1-20260406-UNOFFICIAL-ZhangDongzai-nx549j.zip",
-      "id": "19e27f8d750ca897ee4fc35e36a15c45",
+      "datetime": 1775906320,
+      "filename": "lineage-17.1-20260411-UNOFFICIAL-ZhangDongzai-nx549j.zip",
+      "id": "33b142e673bee399dcdcc4d28d8754fc",
       "romtype": "UNOFFICIAL",
-      "size": 664962503,
-      "url": "https://github.com/ZhangDongzai/android_ota_nx549j/releases/download/20260406/lineage-17.1-20260406-UNOFFICIAL-ZhangDongzai-nx549j.zip",
+      "size": 664962919,
+      "url": "https://github.com/ZhangDongzai/android_ota_nx549j/releases/download/20260411/lineage-17.1-20260411-UNOFFICIAL-ZhangDongzai-nx549j.zip",
       "version": "17.1"
     }
   ]
